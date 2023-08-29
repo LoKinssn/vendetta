@@ -29,9 +29,6 @@
       "INTERACTIVE_MUTED": [
           "#617991" 
       ],
-      "BACKGROUND_SECONDARY_ALT": [
-          "#3B4252"
-      ],
       "BACKGROUND_TERTIARY": [
           "#2E3440"
       ],
@@ -41,16 +38,9 @@
       "BACKGROUND_FLOATING": [
           "#3B4252"
       ],
-      "BACKGROUND_MOBILE_PRIMARY": [
-          "#3B4252"
-      ],
-      "BACKGROUND_MOBILE_SECONDARY": [
-          "#3B4252"
-      ],
       "BACKGROUND_NESTED_FLOATING": [
           "#3B4252"
       ],
-     
       "BACKGROUND_MESSAGE_HOVER": [
           "#2E3440"
       ],
