@@ -8,111 +8,49 @@
         }
     ],
     "semanticColors": {
-      "HEADER_PRIMARY": [
-          "#D8DEE9"
-      ],
-      "HEADER_SECONDARY": [
-          "#D8DEE9"
-      ],
-      "TEXT_NORMAL": [
-          "#ECEFF4"
-      ],
-      "TEXT_MUTED": [
-          "#617991"
-      ],
-      "TEXT_LINK": [
-          "#5E81AC"
-      ],
-      "INTERACTIVE_NORMAL": [
-          "#81A1C1"
-      ],
-      "INTERACTIVE_HOVER": [
-          "#434C5E"
-      ],
-      "INTERACTIVE_ACTIVE": [
-          "#C0D0E0"
-      ],
-      "INTERACTIVE_MUTED": [
-          "#617991" 
-      ],
-      "BACKGROUND_PRIMARY": [
-          "#2E3440"
-      ],
-      "BACKGROUND_SECONDARY": [
-          "#3B4252"
-      ],
-      "BACKGROUND_SECONDARY_ALT": [
-          "#3B4252"
-      ],
-      "BACKGROUND_TERTIARY": [
-          "#2E3440"
-      ],
-      "BACKGROUND_ACCENT": [
-          "#434C5E"
-      ],
-      "BACKGROUND_FLOATING": [
-          "#3B4252"
-      ],
-      "BACKGROUND_MOBILE_PRIMARY": [
-          "#3B4252"
-      ],
-      "BACKGROUND_MOBILE_SECONDARY": [
-          "#3B4252"
-      ],
-      "BACKGROUND_NESTED_FLOATING": [
-          "#3B4252"
-      ],
-      "BACKGROUND_MESSAGE_HOVER": [
-          "#2E3440"
-      ],
-      "BACKGROUND_MODIFIER_HOVER": [
-          "#2E3440"
-      ],
-      "BACKGROUND_MODIFIER_ACTIVE": [
-          "#3B4252"
-      ],
-      "BACKGROUND_MODIFIER_SELECTED": [
-          "#434C5E"
-      ],
-      "BACKGROUND_MODIFIER_ACCENT": [
-          "#3B4252"
-      ],
-      "CHANNELTEXTAREA_BACKGROUND": [
-          "#242424"
-      ],
-      "CHANNELS_DEFAULT": [
-          "#81A1C1"
-      ],
-      "TEXT_DANGER": [
-          "#BF616A"
-      ],
-      "KEYBOARD": [
-          "#2E3440"
-      ],
-      "CHANNEL_ICON": [
-          "#81A1C1"
-      ],
-      "CHAT_BACKGROUND": [
-          "#2E3440"
-      ],
-      "SPOILER_HIDDEN_BACKGROUND": [
-          "#434C5E"
-      ],
-      "SPOILER_REVEALED_BACKGROUND": [
-          "#5B6272"
-      ]
-  },
-  "plus": {
-      "version": 0,
-      "iconpack": "rosiecord-plumpy",
-      "icons": {
-          "StatusStreaming": "#B48EAD",
-          "StatusMobileOnline": "#A3BE8C",
-          "StatusIdle": "#D08770",
-          "StatusDND": "#BF616A",
-          "StatusOffline": "#4C566A",
-          "StatusOnline": "#A3BE8C"
-      }
-  },
-  "spec": 2
+        "HEADER_PRIMARY": ["#D8DEE9"],
+        "HEADER_SECONDARY": ["#D8DEE9"],
+        "TEXT_NORMAL": ["#ECEFF4"],
+        "TEXT_MUTED": ["#617991"],
+        "TEXT_LINK": ["#5E81AC"],
+        "INTERACTIVE_NORMAL": ["#81A1C1"],
+        "INTERACTIVE_HOVER": ["#434C5E"],
+        "INTERACTIVE_ACTIVE": ["#C0D0E0"],
+        "INTERACTIVE_MUTED": ["#617991"],
+        "BACKGROUND_PRIMARY": ["#2E3440"],
+        "BACKGROUND_SECONDARY": ["#3B4252"],
+        "BACKGROUND_SECONDARY_ALT": ["#3B4252"],
+        "BACKGROUND_TERTIARY": ["#2E3440"],
+        "BACKGROUND_ACCENT": ["#434C5E"],
+        "BACKGROUND_FLOATING": ["#3B4252"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#3B4252"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#3B4252"],
+        "BACKGROUND_NESTED_FLOATING": ["#3B4252"],
+        "BACKGROUND_MESSAGE_HOVER": ["#2E3440"],
+        "BACKGROUND_MODIFIER_HOVER": ["#2E3440"],
+        "BACKGROUND_MODIFIER_ACTIVE": ["#3B4252"],
+        "BACKGROUND_MODIFIER_SELECTED": ["#434C5E"],
+        "BACKGROUND_MODIFIER_ACCENT": ["#3B4252"],
+        "CHANNELTEXTAREA_BACKGROUND": ["#242424"],
+        "CHANNELS_DEFAULT": ["#81A1C1"],
+        "TEXT_DANGER": ["#BF616A"],
+        "KEYBOARD": ["#2E3440"],
+        "CHANNEL_ICON": ["#81A1C1"],
+        "CHAT_BACKGROUND": ["#2E3440"],
+        "SPOILER_HIDDEN_BACKGROUND": ["#434C5E"],
+        "SPOILER_REVEALED_BACKGROUND": ["#5B6272"]
+    },
+    "plus": {
+        "version": 0,
+        "iconpack": "rosiecord-plumpy",
+        "icons": {
+            "StatusStreaming": "#B48EAD",
+            "StatusMobileOnline": "#A3BE8C",
+            "StatusIdle": "#D08770",
+            "StatusDND": "#BF616A",
+            "StatusOffline": "#4C566A",
+            "StatusOnline": "#A3BE8C"
+        }
+    },
+    "spec": 2
 }
