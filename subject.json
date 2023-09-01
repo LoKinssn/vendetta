@@ -1,12 +1,10 @@
 {
     "name": "Subject",
     "description": "Nice and nice theme...",
-    "authors": [
-        {
-            "name": "@mlad_",
-            "id": "773538519775445052"
-        }
-    ],
+    "authors": [{
+        "name": "@mlad_",
+        "id": "773538519775445052"
+    }],
     "semanticColors": {
         "HEADER_PRIMARY": ["#D8DEE9"],
         "HEADER_SECONDARY": ["#D8DEE9"],
@@ -55,9 +53,7 @@
         "BRAND_260": "#8199B1",
         "BRAND_360": "#5E81AC",
         "BRAND_500": "#434C5E",
-        "BRAND_560": "#4C566A",
-        "WHITE_500": "#D8DEE9",
-        "YELLOW_300": "#4C566A"
+        "BRAND_560": "#4C566A"
     },
     "plus": {
         "version": 0,
