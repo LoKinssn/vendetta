@@ -18,19 +18,25 @@
         "INTERACTIVE_ACTIVE": ["#C0D0E0"],
         "INTERACTIVE_MUTED": ["#617991"],
         "BACKGROUND_PRIMARY": ["#2E3440"],
-        "BACKGROUND_SECONDARY": ["#3B4252"],
+        
+        "BACKGROUND_SECONDARY": ["#ffffff"],
         "BACKGROUND_SECONDARY_ALT": ["#ffffff"],
+        
         "BACKGROUND_TERTIARY": ["#2E3440"],
         "BACKGROUND_ACCENT": ["#434C5E"],
-        "BACKGROUND_FLOATING": ["#3B4252"],
-        "BACKGROUND_MOBILE_PRIMARY": ["#3B4252"],
-        "BACKGROUND_MOBILE_SECONDARY": ["#3B4252"],
-        "BACKGROUND_NESTED_FLOATING": ["#3B4252"],
+        
+        "BACKGROUND_FLOATING": ["#ffffff"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#ffffff"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#ffffff"],
+        "BACKGROUND_NESTED_FLOATING": ["#ffffff"],
+        
         "BACKGROUND_MESSAGE_HOVER": ["#2E3440"],
         "BACKGROUND_MODIFIER_HOVER": ["#2E3440"],
-        "BACKGROUND_MODIFIER_ACTIVE": ["#3B4252"],
+        
+        "BACKGROUND_MODIFIER_ACTIVE": ["#ffffff"],
         "BACKGROUND_MODIFIER_SELECTED": ["#434C5E"],
-        "BACKGROUND_MODIFIER_ACCENT": ["#3B4252"],
+        "BACKGROUND_MODIFIER_ACCENT": ["#ffffff"],
+        
         "CHANNELTEXTAREA_BACKGROUND": ["#242424"],
         "CHANNELS_DEFAULT": ["#81A1C1"],
         "TEXT_DANGER": ["#BF616A"],
