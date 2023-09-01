@@ -20,12 +20,12 @@
         "BACKGROUND_PRIMARY": ["#2E3440"],
         
         "BACKGROUND_SECONDARY": ["#3B4252"],
-        "BACKGROUND_SECONDARY_ALT": ["#353B49"],
+        "BACKGROUND_SECONDARY_ALT": ["#3B4252"],
         
         "BACKGROUND_TERTIARY": ["#2E3440"],
         "BACKGROUND_ACCENT": ["#434C5E"],
         
-        "BACKGROUND_FLOATING": ["#ffffff"],
+        "BACKGROUND_FLOATING": ["#3B4252"],
         "BACKGROUND_MOBILE_PRIMARY": ["#ffffff"],
         "BACKGROUND_MOBILE_SECONDARY": ["#ffffff"],
         "BACKGROUND_NESTED_FLOATING": ["#ffffff"],
