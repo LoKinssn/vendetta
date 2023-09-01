@@ -50,7 +50,11 @@
         "PRIMARY_660": "#434C5E",
         "PRIMARY_700": "#2E3440",
         "PRIMARY_800": "#2E3440",
-
+        
+        "BRAND_260": "#8199B1",
+        "BRAND_360": "#5E81AC",
+        "BRAND_560": "#4C566A",
+        
         "WHITE_500": "#D8DEE9",
         "YELLOW_300": "#4C566A"
     },
