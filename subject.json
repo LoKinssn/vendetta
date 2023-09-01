@@ -35,7 +35,7 @@
         
         "BACKGROUND_MODIFIER_ACTIVE": ["#ffffff"],
         "BACKGROUND_MODIFIER_SELECTED": ["#434C5E"],
-        "BACKGROUND_MODIFIER_ACCENT": ["#ffffff"],
+        "BACKGROUND_MODIFIER_ACCENT": ["#3B4252"],
         
         "CHANNELTEXTAREA_BACKGROUND": ["#242424"],
         "CHANNELS_DEFAULT": ["#81A1C1"],
