@@ -1,10 +1,12 @@
 {
-    "name": "Subject",
-    "description": "Nice and nice theme...",
-    "authors": [{
-        "name": "@mlad_",
-        "id": "773538519775445052"
-    }],
+    "name": "Fantastic",
+    "description": "Simply a beautiful theme!",
+    "authors": [
+        {
+            "name": "@mlad_",
+            "id": "773538519775445052"
+        }
+    ],
     "semanticColors": {
         "HEADER_PRIMARY": ["#D8DEE9"],
         "HEADER_SECONDARY": ["#D8DEE9"],
@@ -56,7 +58,7 @@
         "YELLOW_300": "#4C566A"
     },
     "plus": {
-        "version": 0,
+        "version": "0",
         "iconpack": "rosiecord-plumpy",
         "icons": {
             "StatusStreaming": "#B48EAD",
@@ -67,5 +69,5 @@
             "StatusOnline": "#A3BE8C"
         }
     },
-    "spec": 2
+    "spec": "2"
 }
